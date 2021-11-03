@@ -1,4 +1,4 @@
-# training_vue
+# Learning Vue By diep.do
 
 ## Project setup
 ```
